@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaysonGermano
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React.js Sass and Node.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on javascript based web apps
 - 📫 How to reach me: taysongermano@gmail.com
 
