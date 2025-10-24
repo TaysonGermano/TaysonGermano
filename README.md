@@ -1,5 +1,5 @@
 # Hi, I’m Tyson Monteiro 👋  
-**Frontend Engineer (you will find me writing backend code as well)**
+**Software Engineer**
 
 I love building scalable web and mobile applications using **TypeScript** and **React**.  
 
